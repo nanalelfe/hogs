@@ -1,0 +1,25 @@
+Nargiza Nosirova g5nana
+0,1,11432,/u/csc209h/winter/pub/bin/checkstep1 ,Step 1 successfully completed.
+1,2,11432,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,11432,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,11432,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+0,2,11432,/u/csc209h/winter/pub/bin/checkstep2 ,Step 2 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,3,11432,checkstep3 ,Step 3 successfully completed.
+0,5,11432,checkstep5 ,Step 5 successfully completed.
+0,6,11432,checkstep6 ,Step 6 successfully completed.
+0,7,11432,checkstep7 -p 32619 ,Step 7 successfully completed.
+1,71,11432,checkstep71 -p 32619 ,The process does not exist
+0,72,11432,checkstep72 ,Step 7.2 successfully completed.
+0,7,11432,checkstep7 -p 34081 ,Step 7 successfully completed.
+1,71,11432,checkstep71 -p 3408134081 ,The process does not exist
+0,71,11432,checkstep71 -p 34081 ,Step 7.1 successfully completed.
+1,72,11432,checkstep72 ,There still seem to be some longproc processes running.
+1,72,11432,checkstep72 ,There still seem to be some longproc processes running.
+0,72,11432,checkstep72 ,Step 7.2 successfully completed.
+1,8,11432,checkstep8 -n 194 ,Number of processes did not match.
+0,8,11432,checkstep8 -n 193 ,Step 8 successfully completed.
